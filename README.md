@@ -30,7 +30,8 @@ This notebook demonstrates the LLM directing the control flow either by calling 
 <br/>
 
 ### 4) agent.ipynb
-This notebook inlcudes generic agent architecture. Invoke the model, if it chooses to call ca tool, the returned ToolMessage is then given back to the model and let the model decide, whether to call another tool or or just respond directly.
+This notebook inlcudes generic agent architecture. Invoke the model, if it chooses to call a tool, the returned ToolMessage is then given back to the model and let the model decide, whether to call another tool or or just respond directly.
+- Added an example with tools(prime, power) and invoking the model.
 <br/>
 <img width="1759" height="906" alt="image" src="https://github.com/user-attachments/assets/15249c89-0640-4919-8bd3-c27a17b71ac1" />
 <br/>
@@ -40,9 +41,12 @@ This notebook inlcudes generic agent architecture. Invoke the model, if it choos
 
 
 <br/>
+
 ### 6) deployment.ipynb
 
 <br/>
+
 ---
 ---
+
 <br/>
