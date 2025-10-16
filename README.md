@@ -38,8 +38,8 @@ This notebook inlcudes generic agent architecture. Invoke the model, if it choos
 <br/>
 
 ### 5) agent-memory.ipynb
-
-
+This notebook shows the use of checkpointer(one of the checkpointers - MemorySaver), which automatically saves the graph state after each step. Hence having memory, allowing langgraph to pick uo form the last state update and perform any set of functions.
+- Added tools for getting the largest number and also for getting the remainder.
 <br/>
 
 ### 6) deployment.ipynb
