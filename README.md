@@ -42,11 +42,33 @@ This notebook shows the use of checkpointer(one of the checkpointers - MemorySav
 - Added tools for getting the largest number and also for getting the remainder.
 <br/>
 
-### 6) deployment.ipynb
+---
+---
 
 <br/>
 
----
----
+## 2) Module 2
+### 1) state-schema.ipynb
+This notebook tells what is schema(it is just the structure and the types of data the gaph will use). How to define and use typed data structures (like TypedDict, Pydantic) to manage state, memory.
+- Added an example of Pydantic which can perform validation to check whether data confirms to the specified types and contraints at runtime
+<br/>
+
+### 2) state-reducers.ipynb
+
+<br/>
+
+### 3) multiple-schemas-ipynb
+
+<br/>
+
+### 4) trim-filter-messages.ipynb
+
+<br/>
+
+### 5) chatbot-summarization.ipynb
+
+<br/>
+
+### 6) chatbot-external-memory.ipynb
 
 <br/>
