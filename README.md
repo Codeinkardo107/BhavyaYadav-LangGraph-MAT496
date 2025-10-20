@@ -54,7 +54,8 @@ This notebook tells what is schema(it is just the structure and the types of dat
 <br/>
 
 ### 2) state-reducers.ipynb
-
+This notebook demonstrates how reducers control state updates when multiple nodes modify the same key or run in parallel. How to define custom reducers to handle state merging safely(eg. None types). How to add messages, re-write messages, delete messages.
+- Added an example in reducers, custom reducers
 <br/>
 
 ### 3) multiple-schemas-ipynb
