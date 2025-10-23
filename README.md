@@ -65,6 +65,9 @@ This notebook shows how to use multiple schemas - separate overall, secret, and 
 
 ### 4) trim-filter-messages.ipynb
 This notebook shows how to trim and filter messages(based on any latest messages or depending on token used) with long-running conversation(high token usage), managing message history effectively.
+Example of trimming messages depending on token used(set to 100).
+<img width="1759" height="906" alt="image" src="https://github.com/user-attachments/assets/ecc3a377-6133-4f99-8b47-9b8174e4e441" />
+<br/>
 - Added examples in trimming, reducing messages
 <br/>
 
