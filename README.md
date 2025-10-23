@@ -73,7 +73,11 @@ Example of trimming messages depending on token used(set to 100).
 <br/>
 
 ### 5) chatbot-summarization.ipynb
+This notebook shows how we go from simple conversation taking place across different invocations, to a continuosly updated internal summarization state that helps us having long running ocnversations with our assistant without a gread deal of token usage.
 
+<br/?
+
+- Added an example
 <br/>
 
 ### 6) chatbot-external-memory.ipynb
