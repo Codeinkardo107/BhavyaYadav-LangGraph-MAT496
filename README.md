@@ -59,7 +59,8 @@ This notebook demonstrates how reducers control state updates when multiple node
 <br/>
 
 ### 3) multiple-schemas-ipynb
-
+This notebook shows how to use multiple schemas - separate overall, secret, and input/output schemas so different nodes can handle specific data without exposing unnecessary state.
+- Added an example of the input/output schemas
 <br/>
 
 ### 4) trim-filter-messages.ipynb
