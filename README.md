@@ -77,7 +77,7 @@ This notebook shows how we go from simple conversation taking place across diffe
 <img width="1759" height="907" alt="image" src="https://github.com/user-attachments/assets/3031115f-4498-4108-a210-6be4308c2bce" />
 <br/?
 
-- Added a new varibale count(counts the total number of human-bot conversations as 1)
+- Added a new varibale count(counts the total number of human-bot conversations as 1 and conversation with summary as 2)
 <br/>
 
 ### 6) chatbot-external-memory.ipynb
