@@ -64,7 +64,8 @@ This notebook shows how to use multiple schemas - separate overall, secret, and 
 <br/>
 
 ### 4) trim-filter-messages.ipynb
-
+This notebook shows how to trim and filter messages(based on any latest messages or depending on token used) with long-running conversation(high token usage), managing message history effectively.
+- Added examples in trimming, reducing messages
 <br/>
 
 ### 5) chatbot-summarization.ipynb
