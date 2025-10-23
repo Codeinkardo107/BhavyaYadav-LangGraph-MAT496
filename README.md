@@ -75,12 +75,16 @@ Example of trimming messages depending on token used(set to 100).
 ### 5) chatbot-summarization.ipynb
 This notebook shows how we go from simple conversation taking place across different invocations, to a continuosly updated internal summarization state that helps us having long running ocnversations with our assistant without a gread deal of token usage.
 <img width="1759" height="907" alt="image" src="https://github.com/user-attachments/assets/3031115f-4498-4108-a210-6be4308c2bce" />
-<br/?
+<br/>
 
 - Added a new varibale count(counts the total number of human-bot conversations as 1 and conversation with summary as 2)
 <br/>
 
 ### 6) chatbot-external-memory.ipynb
 This notebook shows how to build a persistent chatbot using LangGraph with SQLite for long-term memory storage. The system automatically summarizes conversations when they get too long and maintains state externally.
+<img width="1759" height="867" alt="image" src="https://github.com/user-attachments/assets/28072a94-1a92-43df-9c72-1b0c00ec3018" />
+<br/>
+
+- Shown new conversation in langgraph studio
 - Added an example that counts the number of human messages in the conversation.
 <br/>
