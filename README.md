@@ -66,18 +66,18 @@ This notebook shows how to use multiple schemas - separate overall, secret, and 
 ### 4) trim-filter-messages.ipynb
 This notebook shows how to trim and filter messages(based on any latest messages or depending on token used) with long-running conversation(high token usage), managing message history effectively.
 Example of trimming messages depending on token used(set to 100).
+- Added examples in reducer, trimming
+
 <img width="1759" height="909" alt="image" src="https://github.com/user-attachments/assets/f20311a4-d395-4f8e-b940-31ac1914203e" />
 <br/>
-
-- Added examples in reducer, trimming
 <br/>
 
 ### 5) chatbot-summarization.ipynb
 This notebook shows how we go from simple conversation taking place across different invocations, to a continuosly updated internal summarization state that helps us having long running ocnversations with our assistant without a gread deal of token usage.
+- Added a new varibale count(counts the total number of human-bot conversations as 1 and conversation with summary as 2)
+
 <img width="1759" height="907" alt="image" src="https://github.com/user-attachments/assets/3031115f-4498-4108-a210-6be4308c2bce" />
 <br/>
-
-- Added a new varibale count(counts the total number of human-bot conversations as 1 and conversation with summary as 2)
 <br/>
 
 ### 6) chatbot-external-memory.ipynb
@@ -102,11 +102,18 @@ This notebook demonstrates how to handle streaming interruptions - pause, resume
 
 ### 2) breakpoints.ipynb
 This notebook demonstrates how to use breakpoints to pause and inspect the state of a running graph by allowing manual intervention or state inspection before continuing.
+- Added a new functon in tools to return whether the person is legal to drive a car or not, example added accordingly
+
+<br/>
 <img width="1759" height="868" alt="image" src="https://github.com/user-attachments/assets/e7ccef16-6d75-4aa8-a6f4-7c5ebf864b56" />
 <br/>
 
 ### 3) edit-state-human-feeedback.ipynb
+This notebook shows how to edit graph state using human feedback. It demonstrates how users can manually modify the graph’s state during execution to correct or improve results dynamically.
+- Added a new function which calculates any(n1) percentage or any number(n2), example added accrodingly
 
+<br/>
+<img width="1759" height="868" alt="image" src="https://github.com/user-attachments/assets/1b3194cf-c1e6-483a-a9b8-b8da981a2265" />
 <br/>
 
 ### 4) dynamic-breakpoints.ipynb
