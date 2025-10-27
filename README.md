@@ -122,5 +122,6 @@ This notebook demonstrates how to use dynamic breakpoints, allowing pauses durin
 <br/>
 
 ### 5) time-travel.ipynb
-
+This notebook explores time travel, showing how to revert or replay a graph’s state from previous checkpoints. Demonstrates debugging, re-execution, and state restoration for better workflow control.
+- Added a function for calculating the logarithm of number(a) to a base(b)
 <br/>
