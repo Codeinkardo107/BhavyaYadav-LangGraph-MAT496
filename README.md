@@ -47,7 +47,7 @@ This notebook shows the use of checkpointer(one of the checkpointers - MemorySav
 
 <br/>
 
-## 2) Module 2
+## Module 2
 ### 1) state-schema.ipynb
 This notebook tells what is schema(it is just the structure and the types of data the gaph will use). How to define and use typed data structures (like TypedDict, Pydantic) to manage state, memory.
 - Added an example of Pydantic which can perform validation to check whether data confirms to the specified types and contraints at runtime
@@ -87,4 +87,31 @@ This notebook shows how to build a persistent chatbot using LangGraph with SQLit
 
 - Shown new conversation in langgraph studio
 - Added an example that counts the number of human messages in the conversation.
+<br/>
+
+---
+---
+
+<br/>
+
+## Module 3
+### 1) streaming-interruption.ipynb
+This notebook demonstrates how to handle streaming interruptions - pause, resume, or restart graph executions during message streaming
+- Added an example showing divison in streaming messages, another example in which shows the full state of a graph
+  <br/>
+
+### 2) breakpoints.ipynb
+
+<br/>
+
+### 3) edit-state-human-feeedback.ipynb
+
+<br/>
+
+### 4) dynamic-breakpoints.ipynb
+
+<br/>
+
+### 5) time-travel.ipynb
+
 <br/>
