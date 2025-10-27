@@ -82,11 +82,11 @@ This notebook shows how we go from simple conversation taking place across diffe
 
 ### 6) chatbot-external-memory.ipynb
 This notebook shows how to build a persistent chatbot using LangGraph with SQLite for long-term memory storage. The system automatically summarizes conversations when they get too long and maintains state externally.
-<img width="1759" height="867" alt="image" src="https://github.com/user-attachments/assets/28072a94-1a92-43df-9c72-1b0c00ec3018" />
-<br/>
-
 - Shown new conversation in langgraph studio
 - Added an example that counts the number of human messages in the conversation.
+
+<img width="1759" height="867" alt="image" src="https://github.com/user-attachments/assets/28072a94-1a92-43df-9c72-1b0c00ec3018" />
+<br/>
 <br/>
 
 ---
