@@ -101,7 +101,8 @@ This notebook demonstrates how to handle streaming interruptions - pause, resume
   <br/>
 
 ### 2) breakpoints.ipynb
-
+This notebook demonstrates how to use breakpoints to pause and inspect the state of a running graph by allowing manual intervention or state inspection before continuing.
+<img width="1759" height="868" alt="image" src="https://github.com/user-attachments/assets/e7ccef16-6d75-4aa8-a6f4-7c5ebf864b56" />
 <br/>
 
 ### 3) edit-state-human-feeedback.ipynb
