@@ -117,7 +117,7 @@ This notebook shows how to edit graph state using human feedback. It demonstrate
 <br/>
 
 ### 4) dynamic-breakpoints.ipynb
-This notebook demonstrates how to use dynamic breakpoints, allowing conditional pauses during execution. It shows how you can stop the graph at specific points based on runtime conditions for debugging or analysis. 
+This notebook demonstrates how to use dynamic breakpoints, allowing pauses during execution. It shows how you can stop the graph at specific points based on runtime conditions for debugging or any kind of analysis. 
 - Added a new interrupt condition for too long input (100 characters) and a corresponding example
 <br/>
 
