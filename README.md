@@ -125,3 +125,27 @@ This notebook demonstrates how to use dynamic breakpoints, allowing pauses durin
 This notebook explores time travel, showing how to revert or replay a graph’s state from previous checkpoints. Demonstrates debugging, re-execution, and state restoration for better workflow control.
 - Added a function for calculating the logarithm of number(a) to a base(b)
 <br/>
+<br/>
+
+---
+---
+
+<br/>
+## Module 4
+### 1) parallelization.ipynb
+This notebook demonstrates parallelization, showing how multiple nodes can run simultaneously to improve efficiency and reduce execution time in workflows.
+- Added an example in waiting for node to finish, working with LLM
+<img width="1759" height="868" alt="Screenshot 2025-10-31 183224" src="https://github.com/user-attachments/assets/64dca411-a531-4bf4-a32c-7b2bea5461c5" />
+<br/>
+
+### 2) sub-graph.ipynb
+
+<br/>
+
+### 3) map-reduce.ipynb
+
+<br/>
+
+### 4) reesearch-assistant.ipynb
+
+<br/>
