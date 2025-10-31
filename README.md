@@ -131,6 +131,7 @@ This notebook explores time travel, showing how to revert or replay a graph’s 
 ---
 
 <br/>
+
 ## Module 4
 ### 1) parallelization.ipynb
 This notebook demonstrates parallelization, showing how multiple nodes can run simultaneously to improve efficiency and reduce execution time in workflows.
