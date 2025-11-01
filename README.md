@@ -147,7 +147,7 @@ In Langsmith you can view the sub-graphs or different components of the graph ve
 <br/>
 
 ### 3) map-reduce.ipynb
-This notebook demonstrates the Map-Reduce pattern, where data is split across multiple nodes (map phase) for parallel processing and then combined (reduce phase) to produce a final aggregated result — showcasing efficient distributed workflow execution.
+This notebook demonstrates the map-reduce pattern, where data is split across multiple nodes for parallel processing and then combined to produce a final aggregated result.
 - Added logic for returning the worst joke from the generated jokes
 <img width="1759" height="911" alt="image" src="https://github.com/user-attachments/assets/7d45220c-03f7-4f78-b6c6-7dc3b9720565" />
 <br/>
