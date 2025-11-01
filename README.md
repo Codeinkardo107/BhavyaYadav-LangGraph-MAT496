@@ -140,7 +140,10 @@ This notebook demonstrates parallelization, showing how multiple nodes can run s
 <br/>
 
 ### 2) sub-graph.ipynb
-
+This notebook explains how to use sub-graphs in Langgaph, where smaller graphs are combined to from a larger one to create modular, reusable, and organized workflow structures.
+In Langsmith you can view the sub-graphs or different components of the graph very easily(neately).
+- Added an two sub graphs
+<img width="1759" height="904" alt="image" src="https://github.com/user-attachments/assets/f9ac7ad1-4ef6-4fa7-97fd-ef48e98c1f12" />
 <br/>
 
 ### 3) map-reduce.ipynb
