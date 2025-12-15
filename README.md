@@ -153,5 +153,6 @@ This notebook demonstrates the map-reduce pattern, where data is split across mu
 <br/>
 
 ### 4) reesearch-assistant.ipynb
-
+This notebook builds a multi-agent AI research system using LangGraph where AI analysts conduct parallel interviews using web/Wikipedia sources, synthesize findings into reports, and incorporate human feedback throughout the research planning process.
+Added an example which demonstrates how LangGraph can stream step-by-step state updates during execution, allowing us to observe intermediate reasoning and state transitions in real time.
 <br/>
